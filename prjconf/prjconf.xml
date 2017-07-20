@@ -1,3 +1,4 @@
 # device-specific project conf:
 Prefer: droid-config-f5121-bluez5
+Prefer: droid-glibc-tools
 
