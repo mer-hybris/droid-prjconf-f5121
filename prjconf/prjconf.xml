@@ -2,5 +2,4 @@
 Prefer: droid-glibc-tools
 Prefer: ohm-configs-default
 Prefer: hybris-libsensorfw-qt5-hal
-Substitute: droid-config-p4903-flashing bash
 
